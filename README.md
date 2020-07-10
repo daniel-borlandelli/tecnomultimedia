@@ -1,10 +1,11 @@
 # tecnomultimedia
 
-El trabajo todavia no esta termina en cuanto a imagenes y tipografia, falta armar bien los textos y agregar 2 pantallas mas, que me di cuenta que seria necesarias para que la obra quede mas prolija.
 
 
-Por el lado de el programa funciona desde el inicio al fin, se puede recorrer todas las pantallas (final principal mas finales alternos con sus retornos).
-Falta ordenar mejor las pantallas para que no haya tantos PDE
+El programa se puede recorrer de principio a fin, esto incluye tanto el recorrido principal, como los finales alternativos
+
+
+El trabajo todavia no se encuentra terminado en cuanto a imagenes y tipografia, falta armar bien los textos y agregar 2 pantallas mas, que me di cuenta que seria necesarias para que la obra quede mas prolija
 
 
 
