@@ -1,7 +1,12 @@
 # tecnomultimedia
 
-el trabajo todavia no esta termina en cuanto a imagenes y tipografia, falta armar bien los textos y agregar 2 pantallas mas, que me di cuenta que seria necesarias para que la obra quede mas prolija.
+El trabajo todavia no esta termina en cuanto a imagenes y tipografia, falta armar bien los textos y agregar 2 pantallas mas, que me di cuenta que seria necesarias para que la obra quede mas prolija.
+
+
 Por el lado de el programa funciona desde el inicio al fin, se puede recorrer todas las pantallas (final principal mas finales alternos con sus retornos).
+Falta ordenar mejor las pantallas para que no haya tantos PDE
+
+
 
 
 El inicio será el título de la obra “gato con botas” y te pedirá que toques una tecla (enter) para arrancar la historia.
